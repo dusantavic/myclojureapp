@@ -19,6 +19,10 @@
   [employee]
   (get employee :job))
 
+(defn get-job-standard
+  [job]
+  (get job :expected))
+
 (defn get-employees-name
   [employee]
   (str (get employee :name) " " (get employee :surname)))
