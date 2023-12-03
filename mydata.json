@@ -1,0 +1,68 @@
+[
+    {
+        "id" : 1,
+        "name" : "Dusan", 
+        "lastname": "Tavic", 
+        "rate" : 10, 
+        "job": { 
+            "id" : 1, 
+            "name" : ".NET Junior Developer", 
+            "expected" : 10
+        }
+    }, 
+    {
+        "id" : 2,
+        "name" : "Nevena", 
+        "lastname": "Cvijovic", 
+        "rate" : 10, 
+        "job": { 
+            "id" : 2, 
+            "name" : "Java Junior Developer", 
+            "expected" : 10
+        }
+    }, 
+    {
+        "id" : 3,
+        "name" : "Mila", 
+        "lastname": "Miladinovic", 
+        "rate" : 9, 
+        "job": { 
+            "id" : 2, 
+            "name" : "Java Junior Developer", 
+            "expected" : 10
+        }
+    }, 
+    {
+        "id" : 4,
+        "name" : "Veljko", 
+        "lastname": "Uskokovic", 
+        "rate" : 9, 
+        "job": { 
+            "id" : 1, 
+            "name" : ".NET Junior Developer", 
+            "expected" : 10
+        }
+    }, 
+    {
+        "id" : 5,
+        "name" : "Nemanja", 
+        "lastname": "Vukelic", 
+        "rate" : 8, 
+        "job": { 
+            "id" : 1, 
+            "name" : ".NET Junior Developer", 
+            "expected" : 10
+        }
+    }, 
+    {
+        "id" : 6,
+        "name" : "Bogdan", 
+        "lastname": "Ivanovic", 
+        "rate" : 5, 
+        "job": { 
+            "id" : 1, 
+            "name" : ".NET Junior Developer", 
+            "expected" : 10
+        }
+    }
+]
